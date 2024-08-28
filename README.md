@@ -9,12 +9,15 @@
 
 # Used technologies
 ## Frontend
-- Create-React-App
+- React
 - TypeScript
 - Redux Toolkit
 - RTK Query
+- Create-React-App
 - antd
 - react-router-dom
+- HTML
+- CSS
 ## Backend
 - JS
 - Express
