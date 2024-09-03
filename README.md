@@ -22,6 +22,7 @@
 - JS
 - Express
 - Prisma
+- SQLite
 - concurrently
 - dotenv
 - bcrypt
